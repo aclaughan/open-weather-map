@@ -1,0 +1,5 @@
+/secrets.py
+/app.log
+
+# Project exclude paths
+/venv/
